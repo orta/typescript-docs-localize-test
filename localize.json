@@ -1,0 +1,10 @@
+{
+    "source": "microsft/TypeScript-Website",
+    "languages": [],
+    "docsRoots": [        
+        { "from": "packages/playground-examples/copy/", "to": "docs/playground" },
+        { "from": "packages/tsconfig-reference/copy/", "to": "docs/tsconfig" },
+        { "from": "packages/typescriptlang-org/src/copy/", "to": "docs/typescriptlang" },
+        { "from": "packages/documentation/copy/", "to": "docs/documentation" }
+    ]
+}
